@@ -1,16 +1,14 @@
-## Hi there 👋
+# Merhaba, ben İbrahim 👋
 
-<!--
-**ibmtn/ibmtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım geliştirici ve girişimci. Web ve mobil uygulamalar geliştiriyor, yapay zeka araçlarıyla üretim sürecimi hızlandırıyorum.
 
-Here are some ideas to get you started:
+## 🛠️ Kullandığım Teknolojiler
+C# · Python · SQL · Flutter . ASP .NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Öne Çıkan Projeler
+- **CustomerManagementSystem**
+- **smart-glasses**
+
+## 🎯 Şu An
+Yerli ve yenilikçi projeler üzerinde çalışıyorum; yapay zeka destekli geliştirme iş akışlarını deniyorum.
+
